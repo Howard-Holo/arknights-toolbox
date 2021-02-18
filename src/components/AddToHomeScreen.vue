@@ -143,7 +143,7 @@
             <h4 class="h-ul">Windows - Chrome</h4>
             <p
               >Click the <i class="mdui-icon material-icons">more_vert</i> button on the top right of browser, then
-              click <code>Install "明日方舟工具箱"</code>.</p
+              click <code>Install "Arknights Toolbox"</code>.</p
             >
             <h4 class="h-ul">Android - Chrome</h4>
             <p
